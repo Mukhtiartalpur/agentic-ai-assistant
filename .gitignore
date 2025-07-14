@@ -1,0 +1,9 @@
+# Ignore Python cache and virtual environment
+__pycache__/
+venv/
+
+# Ignore API keys
+.env
+
+# Ignore vector DB files (optional, large files)
+vectorstore/
